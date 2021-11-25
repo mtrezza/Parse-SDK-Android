@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/parse-community/Parse-SDK-Android/compare/2.1.0...2.2.0) (2021-11-25)
+
+
+### Features
+
+* update project dependencies and code refactoring ([#1141](https://github.com/parse-community/Parse-SDK-Android/issues/1141)) ([38d2ebb](https://github.com/parse-community/Parse-SDK-Android/commit/38d2ebbfdc7b0ffa7c963eedfd8c95c9fc05e21c))
+
 # [2.1.0](https://github.com/parse-community/Parse-SDK-Android/compare/2.0.6...2.1.0) (2021-11-21)
 
 
